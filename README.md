@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Demaceo Vincent Howard!  
 
 🚀 **Developer | Designer | Dog-Dad | #TechForGood**  
-🌎 Based in Denver, CO  
+🌎 Based in Colorado
 
 ## 🌱 About Me  
 From marine biology to software engineering, my career has been a journey of blending science, education, and technology. I’m passionate about building software that is impactful, intuitive, and community-centered.  
