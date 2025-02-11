@@ -45,7 +45,6 @@ Before coding, I worked in **marine biology, conservation, and outdoor education
 ## 📬 Let's Connect!  
 - 🔗 [Portfolio](http://www.demaceo.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/demaceo)  
-- 📧 hdemaceo@gmail.com  
 
 ---
 
