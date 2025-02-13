@@ -40,7 +40,7 @@ Before coding, I worked in **marine biology, conservation, and outdoor education
 🔹 **Lead Facilitator @ Sustainable Summer** – Guided sustainability programs for students  
 
 ## 🎥 Featured Work  
-📺 **PBS Documentary on Public Interest Technology (Spring 2025)** – Interviewed leaders in Public Interest Technology while traveling across the country in a neon green RV 🚐  
+📺 **PBS Documentary on Public Interest Technology (Summer 2025)** – Interviewed leaders in Public Interest Technology while traveling across the country in a neon green RV 🚐  
 
 ## 📬 Let's Connect!  
 - 🔗 [Portfolio](http://www.demaceo.com)  
