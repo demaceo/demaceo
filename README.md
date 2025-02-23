@@ -48,4 +48,4 @@ Before coding, I worked in **marine biology, conservation, and outdoor education
 
 ---
 
-🔍 **Fun Fact:** When I’m not coding, you’ll probably find me hiking the Rockies with my dog, gaming, or geeking out over something I just learned that day!  
+🔍 **Fun Fact:** When I’m not coding, you’ll probably find me hiking with my dog, gaming, or geeking out over something I just learned that day.
