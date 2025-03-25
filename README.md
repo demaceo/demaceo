@@ -1,21 +1,20 @@
-# 👋 Hi, I'm Demaceo Vincent Howard!  
+#  Hello, I'm Demaceo Vincent Howard  
 
 🚀 **Developer | Designer | Dog-Dad | #TechForGood**  
 🌎 Based in Colorado
 
-## 🌱 About Me  
+## About:  
 From marine biology to software engineering, my career has been a journey of blending science, education, and technology. I’m passionate about building software that is impactful, intuitive, and community-centered.  
 
-💡 **What drives me?**  
+💡 **Drivers:**  
 - Creating **accessible, user-friendly web applications**  
-- Exploring the intersection of **AI, UX, and environmental sustainability**  
 - Helping others learn to code through **mentorship and teaching**  
 - Designing tech solutions that **benefit communities and make a difference**  
 
 ## 🛠️ Tech Stack & Skills  
 - **Languages:** JavaScript, TypeScript, SQL, HTML, CSS  
-- **Front-End:** React, Redux, Web Accessibility  
-- **Back-End:** Node.js, RESTful APIs, AWS  
+- **Front-End:** React, Next.js, Web Accessibility  
+- **Back-End:** Node.js, RESTful APIs, AWS, MongoDB, Firebase  
 - **DevOps & Testing:** CircleCI, GitHub Actions, Unit & Integration Testing  
 - **Design & UX:** UI/UX Design, Figma, Miro  
 - **Other:** Automation, AI for Business, Data Processing  
@@ -40,12 +39,10 @@ Before coding, I worked in **marine biology, conservation, and outdoor education
 🔹 **Lead Facilitator @ Sustainable Summer** – Guided sustainability programs for students  
 
 ## 🎥 Featured Work  
-📺 **PBS Documentary on Public Interest Technology (Summer 2025)** – Interviewed leaders in Public Interest Technology while traveling across the country in a neon green RV 🚐  
+📺 **PBS Documentary on Public Interest Technology (Autumn 2025)** – Interviewed leaders in Public Interest Technology while traveling across the country in a neon green RV 🚐  
 
-## 📬 Let's Connect!  
+## 📬 Let's Connect:
 - 🔗 [Portfolio](http://www.demaceo.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/demaceo)  
 
 ---
-
-🔍 **Fun Fact:** When I’m not coding, you’ll probably find me hiking with my dog, gaming, or geeking out over something I just learned that day.
