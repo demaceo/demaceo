@@ -1,7 +1,8 @@
-<!-- Banner (replace with your own image or logo if desired) -->
-<p align="center">
+<!-- Banner -->
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/66697338/104397652-796aac00-550a-11eb-8f64-4b7f7e0c07cc.gif" width="200" alt="Moody Tunes gif">
-</p>
+</p> -->
+
 
 <h1 align="center">Mahalo, I'm Demaceo 👋</h1>
 <p align="center">
@@ -63,7 +64,7 @@
 
 ---
 
-## 👩‍🔬 Previous Work in Science & Conservation
+## ♲ Previous Work in Science & Conservation
 
 > _"Before coding, I worked in **marine biology, conservation, and outdoor education** across the U.S., Bahamas, Ecuador, Costa Rica, and Honduras."_
 
@@ -76,13 +77,13 @@
 
 ---
 
-## 📺 Featured & Media
+## 🎞️ Featured & Media
 
 - 🎥 **PBS Documentary** (Autumn 2025): Interviewed leaders in Public Interest Technology, traveling cross-country in a neon green RV 🚐
 
 ---
 
-## 🧑‍🏫 Teaching & Mentorship
+## 📚 Teaching & Mentorship
 
 - **Teaching Assistant @ Upright Education:** Educating the next generation of software engineers  
 - **Student Mentor @ Turing School:** Code reviews, UI/UX feedback & mock interviews
@@ -118,5 +119,5 @@
 </p>
 
 <details>
-  <summary>🐾 <strong>Fun Fact</strong></summary>
+  <summary>🤿 <strong>Fun Fact</strong></summary>
   I once led a group of students on a night dive to witness bioluminescence in the Bahamas. We survived. 🏝️✨
