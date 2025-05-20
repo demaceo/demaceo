@@ -18,7 +18,7 @@
 
 ## 🧭 About Me
 
-🌊 *From marine biology to code – I bridge science, education, and tech for real-world good.*  
+🌊 *From marine biology to code – I bridge science, education, and tech for real-world application.*  
 👨‍💻 Building **impactful**, **intuitive**, and **community-centered** software.  
 🐶 Proud dog dad, lifelong learner, & advocate for accessible tech.
 
