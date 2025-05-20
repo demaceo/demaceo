@@ -66,11 +66,11 @@
 
 ## ♲ Previous Work in Science & Conservation
 
-> _"Before coding, I worked in **marine biology, conservation, and outdoor education** across the U.S., Bahamas, Ecuador, Costa Rica, and Honduras."_
+> _"Before coding, I worked in **marine biology, conservation, and education** across the U.S., Bahamas, Ecuador, Costa Rica, and Honduras."_
 
 - **Educational Coordinator @ Andros Nature Conservancy**  
   Developed environmental education curriculums  
-- **Research Assistant @ Osa Conservation, Costa Rica**  
+- **Field Researcher @ Osa Conservation, Costa Rica**  
   Led sea turtle conservation projects  
 - **Lead Facilitator @ Sustainable Summer**  
   Guided sustainability programs for students
