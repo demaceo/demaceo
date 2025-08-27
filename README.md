@@ -4,7 +4,7 @@
 </p> -->
 
 
-<h1 align="center">Mahalo, I'm Demaceo 🤙</h1>
+<h1 align="center">Welcome, I'm Demaceo 🤙</h1>
 <p align="center">
   <b>Developer | Designer | Diver | Dog-Dad | <span style="color:#1DA1F2">#TechForGood</span></b><br>
   <img src="https://img.shields.io/badge/Colorado-%F0%9F%8F%97-blue?style=flat-square" alt="Colorado Badge"/>
