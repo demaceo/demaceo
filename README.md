@@ -64,12 +64,12 @@ const demaceo = {
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Web Accessibility](https://img.shields.io/badge/A11y-3F7FBF?style=for-the-badge&logo=web-accessibility&logoColor=white)
+![Web Accessibility](https://img.shields.io/badge/A11y-3F7FBF?style=for-the-badge&logoColor=white)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logoColor=white)
 
 ### Cloud & Database
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -79,7 +79,7 @@ const demaceo = {
 ### DevOps & Testing
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=testing-library&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logoColor=white)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
