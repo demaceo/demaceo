@@ -250,6 +250,6 @@ const demaceo = {
   <img src="https://github-profile-trophy.vercel.app/?username=demaceo&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<details>
+<!-- <details>
   <summary>🤿 <strong>Fun Fact</strong></summary>
-  I once led a group of students on a night dive to witness bioluminescence in the Bahamas. We survived. 🏝️✨
+  I once led a group of students on a night dive to witness bioluminescence in the Bahamas. We survived. 🏝️✨ -->
